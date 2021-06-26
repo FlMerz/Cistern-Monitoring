@@ -41,8 +41,8 @@ These data are then graphically processed and displayed on a display. Optionally
 
 ### Sensor Module
 Prototyp for long term tests:
-![IMG-20210522-WA0009](https://user-images.githubusercontent.com/53577414/123509970-0056af80-d679-11eb-9b74-b49b226ecaf5.jpg)
 
+![IMG-20210522-WA0009](https://user-images.githubusercontent.com/53577414/123509970-0056af80-d679-11eb-9b74-b49b226ecaf5.jpg)
 
 ## Contributors
 Many thanks to 
