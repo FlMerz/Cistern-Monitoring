@@ -29,6 +29,8 @@ These data are then graphically processed and displayed on a display. Optionally
 
 ## Impressions
 ### Base Station
+![base module_config](https://user-images.githubusercontent.com/53577414/123509885-6e4ea700-d678-11eb-9bab-d060301b7269.png)
+![base_station-1](https://user-images.githubusercontent.com/53577414/123509888-70186a80-d678-11eb-9461-dba977ae32a6.png)
 
 ### Configuration
 ![wifi_selection_small](https://user-images.githubusercontent.com/53577414/123509631-dc926a00-d676-11eb-8b7e-fe4994de1a33.png)
@@ -36,6 +38,10 @@ These data are then graphically processed and displayed on a display. Optionally
 ![config_ssid_small](https://user-images.githubusercontent.com/53577414/123509633-dd2b0080-d676-11eb-8d02-ec8cc4c2faaf.png)
 ![save_screen_small](https://user-images.githubusercontent.com/53577414/123509634-ddc39700-d676-11eb-97ab-e1c0acc8067b.png)
 ![start_wifi_manager_small](https://user-images.githubusercontent.com/53577414/123509635-ddc39700-d676-11eb-969a-f99d631ae56f.png)
+
+### Sensor Module
+Prototyp for long term tests:
+![IMG-20210522-WA0009](https://user-images.githubusercontent.com/53577414/123509970-0056af80-d679-11eb-9b74-b49b226ecaf5.jpg)
 
 
 ## Contributors
