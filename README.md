@@ -27,6 +27,17 @@ These data are then graphically processed and displayed on a display. Optionally
 ### Cistern-Monitoring PWA App (optional)
 - development are ongoing here (https://github.com/SwonVIP/cistern-pwa)
 
+## Impressions
+### Base Station
+
+### Configuration
+![wifi_selection_small](https://user-images.githubusercontent.com/53577414/123509631-dc926a00-d676-11eb-8b7e-fe4994de1a33.png)
+![cistern_credentials_small](https://user-images.githubusercontent.com/53577414/123509632-dd2b0080-d676-11eb-947a-ed56a5360bc9.png)
+![config_ssid_small](https://user-images.githubusercontent.com/53577414/123509633-dd2b0080-d676-11eb-8d02-ec8cc4c2faaf.png)
+![save_screen_small](https://user-images.githubusercontent.com/53577414/123509634-ddc39700-d676-11eb-97ab-e1c0acc8067b.png)
+![start_wifi_manager_small](https://user-images.githubusercontent.com/53577414/123509635-ddc39700-d676-11eb-969a-f99d631ae56f.png)
+
+
 ## Contributors
 Many thanks to 
 Manuel,
