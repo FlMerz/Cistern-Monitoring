@@ -11,7 +11,7 @@ With an ultrasonic sensor, which is placed above the water tank, the distance to
 These data are then graphically processed and displayed on a display. Optionally, the system can be connected to the Internet via WLAN. This data can then be accessed worldwide via the Cistern Monitoring Cloud using a progressive web app (https://github.com/SwonVIP/cistern-pwa). 
 ### Use Case 1
 Waterlevel should be displayed directly on the tank
-![UseCase1](https://user-images.githubusercontent.com/53577414/123510196-77407800-d67a-11eb-880e-91d9780e54db.png)
+![UseCase3](https://user-images.githubusercontent.com/53577414/123510199-7871a500-d67a-11eb-915a-ef8011b7b183.png)
 
 ### Use Case 2
 Tank is outside of the house and waterlevel should be shown in inside the house
@@ -19,8 +19,7 @@ Tank is outside of the house and waterlevel should be shown in inside the house
 
 ### Use Case 3
 Waterlevel information should be retrieved all over the world
-![UseCase3](https://user-images.githubusercontent.com/53577414/123510199-7871a500-d67a-11eb-915a-ef8011b7b183.png)
-
+![UseCase1](https://user-images.githubusercontent.com/53577414/123510196-77407800-d67a-11eb-880e-91d9780e54db.png)
 
 ## Components
 
