@@ -45,6 +45,10 @@ Waterlevel information should be retrieved all over the world
 ### Base Station
 ![base module_config](https://user-images.githubusercontent.com/53577414/123509885-6e4ea700-d678-11eb-9bab-d060301b7269.png)
 ![base_station-1](https://user-images.githubusercontent.com/53577414/123509888-70186a80-d678-11eb-9461-dba977ae32a6.png)
+![receiver_small](https://user-images.githubusercontent.com/53577414/149464046-929e71d1-4453-470a-9b31-88ac2fc05e32.jpeg)
+![sender_small](https://user-images.githubusercontent.com/53577414/149464053-582e937b-ed0d-46bd-995e-f74c812df7d1.jpeg)
+![pcb_small](https://user-images.githubusercontent.com/53577414/149464054-fc94f4ad-f054-440e-9b22-80d03a1adabc.jpeg)
+
 
 ### Configuration
 ![wifi_selection_small](https://user-images.githubusercontent.com/53577414/123509631-dc926a00-d676-11eb-8b7e-fe4994de1a33.png)
