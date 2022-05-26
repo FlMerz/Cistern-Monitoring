@@ -64,6 +64,7 @@ Prototyp for long term tests:
 
 ## Contributors
 Many thanks to 
-Manuel,
-Lukas,
-Sven (https://github.com/SwonVIP)
+Manuel M.,
+Lukas W.,
+Sven (https://github.com/SwonVIP),
+Marco W. 
